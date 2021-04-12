@@ -1,0 +1,15 @@
+django
+djangorestframework
+gunicorn
+psycopg2-binary
+django-modeltranslation
+apscheduler
+dateparser
+django-bulk-sync
+hypothesis
+factory_boy
+faker
+django-model-utils
+pylint
+pandas
+openpyxl

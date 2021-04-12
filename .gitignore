@@ -1,0 +1,16 @@
+*.pyc
+*.log
+*.csv
+!order_template.csv
+*.mo
+*.txt.py
+*.pem
+__pycache
+.DS_Store
+node_modules/
+.hypothesis/
+package.json
+package-lock.json
+.vscode/
+.project
+*.ipynb
