@@ -1,4 +1,6 @@
 django
+django-material
+django-viewflow
 djangorestframework
 gunicorn
 psycopg2-binary
@@ -11,5 +13,3 @@ factory_boy
 faker
 django-model-utils
 pylint
-pandas
-openpyxl
