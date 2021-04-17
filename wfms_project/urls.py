@@ -23,7 +23,6 @@ from viewflow.flow.viewset import FlowViewSet
 from wfms_app.flows import ShipmentFlow
 
 urlpatterns = [
-    url(r'^$', generic.RedirectView.as_view(url='/workflow/', permanent=False)),
     path('wfms_app/', include('wfms_app.urls')),
     url(r'', include(frontend_urls)),
     path('admin/', admin.site.urls),
